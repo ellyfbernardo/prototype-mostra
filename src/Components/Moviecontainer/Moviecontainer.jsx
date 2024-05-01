@@ -6,7 +6,7 @@ const Moviecontainer = () => {
 
 
      <div className='container'>
-               <img src={process.env.PUBLIC_URL+"./prototype-mostra/o-dia-que-te-conheci.webp"} alt="" />
+               <img src="/public/o-dia-que-te-conheci.webp" alt="" />
                <h2>O DIA QUE TE CONHECI</h2>
                <p>FICÇÃO, 77 MIN, CE, 2023, 10 ANOS <br/>
                DIREÇÃO: AMANDA PONTES E MICHELLINE HELENA</p>
